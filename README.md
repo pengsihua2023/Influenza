@@ -10,7 +10,8 @@ Influenza A viruses (haemagglutinin (HA) subtypes 1–16) circulate in the wild 
 Fig. 2: Host sialic acid presentation and physiology drives haemagglutinin adaptation.
 
 a | Example structure of a complex sialylated glycan, with either α2-3-linked or α2-6-linked sialic acid (SA). b | Species presentation of SA receptors in the respiratory tract. Human, ferret and pig respiratory tracts express a greater abundance of α2-6 SA than the mouse respiratory tracts, which have equal amounts of α2-3 SA. Human and ferret respiratory tracts present N-acetylneuraminic acid (Neu5Ac)-type SA, whereas pig and mouse respiratory tracts also present N-glycolylneuraminic acid (Neu5Gc) SA. c | SA differences and pH gradients exist along the human respiratory tract. α2-6 SA receptors predominate in the upper respiratory tract (URT), to which human influenza A virus (blue) but not avian influenza virus (AIV) (red) can bind. Both α2-3 and α2-6 SA receptors are present in the lower respiratory tract (LRT). The pH in the URT is mildly acidic and gradually increases from the URT to the LRT (reviewed in ref.148). The haemagglutinins (HAs) of human influenza A viruses are more pH stable (pH 5.0–5.4) whereas the HAs of some AIVs are less pH stable (up to pH 6.1) and may be inactivated in the human URT (reviewed in ref.148). The temperature is lower in the URT than in the LRT173. Human influenza A virus polymerases are more active than AIV polymerases at lower temperatures102,174.  
-  
+
+      
 ![Influenz3](/image/influenza3.webp)  
 Fig. 3: Virus and host-specific determinants of influenza virus replication.
 
