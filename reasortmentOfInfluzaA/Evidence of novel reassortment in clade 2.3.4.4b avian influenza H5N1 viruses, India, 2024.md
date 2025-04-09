@@ -109,5 +109,9 @@ NA基因系统发育树显示按各自HA分支聚类，表明无分支间重配�
 #### 3.7.5. 聚合酶酸性蛋白（PA）基因
 喀拉拉邦报告的H5N1病毒株的PA基因显示LPAI A/duck/Kerala/DUTR1411100009/2014（H3N8）类似的病毒作为可能的祖先（图1(e)）。澳大利亚和美国人类病例报告的H5N1病毒也在此单系簇中观察到。SARI-4571的PA基因则单独聚类。
 
+### 3.7.6. 核蛋白（NP）基因
+对于NP基因，喀拉拉邦报告的H5N1病毒同样显示LPAI A/duck/Kerala/DUTR1411100009/2014（H3N8）类似的病毒作为可能的祖先（图1(f)）。有趣的是，这一单系簇还包括2016年印度报告的HPAI H5N8病毒，即A/duck/India/10CA01/2016（H5N8），表明这两种HPAI病毒具有共同的遗传起源。
+![image](https://github.com/user-attachments/assets/62d98267-0969-41d8-b002-69ee539f4dcf)  
+![image](https://github.com/user-attachments/assets/a7811bd3-f062-4c91-99c4-e32849081a9a)
 
 
