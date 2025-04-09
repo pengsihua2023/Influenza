@@ -85,7 +85,8 @@ Tare et al., 2024）。2.3.4.4b分支的H5N1病毒在全球范围内传播，在
 
 #### 3.5. 病毒滴定和受体特异性试验
 H5N1-240008的EID50和ELD50为10^7.87/mL。在受体特异性试验中，未经处理的红细胞显示HA滴度为1024 HAU，而经α-2,3-唾液酸酶处理的红细胞无HA滴度，表明其具有禽类型受体特异性。LPAI H4N6株A/migratory bird/India/1722760/2017（H4N6）在经α-2,3-唾液酸酶处理的红细胞中也无HA滴度，表明其具有禽类型受体特异性。
-![image](https://github.com/user-attachments/assets/052420dc-ce9f-43a7-9a0c-821b3d251dd8)  
+![image](https://github.com/user-attachments/assets/f9da9ff3-5f3c-47bb-b735-47b1b3257a9c)  
+
 ![image](https://github.com/user-attachments/assets/07e1462c-b0b3-4baf-8574-de3964a3a0a1)  
 ### 3.6. 分子分析
 所有八个基因片段的序列已提交至GenBank（登录号为‘PQ109022-PQ109045’）。对七个原始样本和两个代表性病毒分离株的全基因组序列进行了分子分析（表3）。原始样本和病毒分离株序列在关键分子标记上无差异。所有序列均显示血凝素（HA）蛋白具有多碱性裂解位点（KRRKR），这是与禽流感H5N1病毒高致病性相关的关键分子特征。HA蛋白还显示出其他与增强结合哺乳动物型唾液酸受体（α-2,6连接唾液酸受体）相关的标记（表3）（Suttie et al., 2019）。  
