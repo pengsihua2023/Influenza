@@ -149,3 +149,147 @@ H5N1 2.3.4.4b分支病毒在HI试验中与2.3.4分支抗血清显示出高交叉
 我们此前报告了印度部分可用的H5N1 2.3.4.4b分支序列A/Anser_indicus/India/AIVA286CADIndia/2020（AIVA/2020）的分子特征（Tare et al., 2024）。它显示出与增加致病性相关的氨基酸替换。已报告改变HA抗原性的D183N突变存在（Antigua et al., 2022; Kaverin et al., 2007）。HA中S123P、T156A、D183N和S223R组合突变的出现已报告可改变H5N1病毒的NA亚型偏好（Antigua et al., 2022）。AIVA/2020显示出这四个替换中的三个组合，第四位223的序列信息不可用。这凸显了印度当代2.3.4.4b分支H5N1病毒发生抗原漂移的可能性。印度报告的H5N8病毒HA蛋白的氨基酸序列也显示出相同的氨基酸标记（Nagarajan et al., 2017）。在我们之前的研究中，2.3.4.4b分支代表性病毒A/quail/Korea/H526/2021（H5N1）与AIVA/2020在H5N1 HA基因MCC树中共享近亲共同祖先，其内部基因来源于不同的LPAI亚型（Tare et al., 2024）。值得注意的是，其PB2基因与印度先前报告的LPAI病毒A/Duck/India/10736/2009（H4N6）和A/duck/Kerala/DUTR1411100009/2014（H3N8）显示出96%的核苷酸同一性（PNI），表明存在共同的重配基础。
 
 喀拉拉邦以燕鸥、鸥、鹳、鸻、塍鹬等候鸟物种的到达和越冬而闻名。家禽包括大量的小型商业和后院养殖的鸭子和鸡。在本次疫情中，鸭子和鸡表现出高死亡率，野生鸟类（包括乌鸦、鹭、鸽子、孔雀雌鸟和鸮）也有报告。这表明病毒在野生鸟类和家禽之间的界面发生了传播。  
+![image](https://github.com/user-attachments/assets/082ba573-02b0-4582-ae14-70e4ed6be675)
+![image](https://github.com/user-attachments/assets/91121441-f58b-4fb0-adeb-5e757eca770b)  
+![image](https://github.com/user-attachments/assets/0fe6d926-dbca-4ab1-a2f1-a53a329dd1f7)
+
+![image](https://github.com/user-attachments/assets/2aefa989-48d3-4262-9f44-8c4f6bc04d51)  
+![image](https://github.com/user-attachments/assets/77120ec3-9ae6-4727-b94d-780ec667b8bb)  
+![image](https://github.com/user-attachments/assets/a81dfd6e-66ce-4f07-b357-d9a8ac4ecaee)
+
+在本研究中，我们从家禽围栏中采集的土壤和污物样本中获得了阳性病毒分离。这些样本是在养殖场首次报告死亡后的几天内采集的。这表明环境中存在存活的病毒，强调了彻底消毒家禽围栏周围区域的必要性。此前的研究也显示从土壤样本中检测和分离出HPAI H5N1病毒（Horm et al., 2011, 2012）。湖泊沉积物和粪便也已被证明是LPAI病毒的长期传染源（Nazir et al., 2011）。因此，环境采样可用于禽流感监测和疫情调查（Coombe et al., 2020）。
+
+2.3.4.4b分支H5Nx病毒的重配已被充分描述（Yang et al., 2023; Sagong et al., 2022; Abolnik, 2024; Youk et al., 2023）。然而，印度此前未报告过2.3.4.4b分支HPAI H5N1病毒的循环基因型。本研究首次报告了LPAI H3N8与HPAI H5N1病毒之间的重配。值得注意的是，2017年印度报告的HPAI H5N8病毒的2.3.4.4b分支HA基因与HPAI H5N1病毒的HA基因相似。因此，不能排除LPAI H3N8样病毒作为HPAI H5N8和H5N1病毒共同祖先的可能性。本研究报告的H5N1病毒的PB1基因与澳大利亚人类病例（有印度旅行史的A/Victoria/149/2024，2.3.2.1a分支）的PB1、PA和M基因，以及印度人类病例（A/India/SARI-4571/2021，2.3.2.1a分支）的PB1基因存在相似性。这表明当前循环的H5N1病毒存在持续的重配和共同祖先。需要进一步的系统动力学研究来追踪这些病毒的确切时空起源。
+
+印度在2019年和2021年报告了LPAI H9N2和HPAI H5N1病毒的人类感染（Potdar et al., 2019, 2022）。在当前疫情期间，未发现HPAI H5N1病毒的人类感染。然而，样本对SARS-CoV-2和季节性流感（H1N1）病毒呈阳性。进一步的人群血清监测研究将有助于阐明暴露史。
+
+### 5. 结论
+本研究首次报告了从印度分离并表征的2.3.4.4b分支H5N1病毒。我们还揭示了LPAI H3N8与HPAI H5N1病毒之间发生的亚型间重配，并报告了每个基因的可能祖先。总体而言，这些发现强调了在人-动物及野生-家禽界面加强分子和病毒学监测的迫切需要。
+
+### References
+
+Abolnik, C., 2024. Spillover of an endemic avian influenza H6N2 chicken lineage to ostriches and reassortment with clade 2.3.4.4b H5N1 high pathogenicity viruses in chickens. *Vet. Res. Commun.* 48(2), 1233–1237.
+
+Antigua, K.J.C., Baek, Y.H., Choi, W.-S., Jeong, J.H., Kim, E.-H., Oh, S., et al., 2022. Multiple HA substitutions in highly pathogenic avian influenza H5Nx viruses contributed to the change in the NA subtype preference. *Virulence* 13(1), 990–1004.
+
+Barman, S., Turner, J.C.M., Kamrul Hasan, M., Akhtar, S., Jeevan, T., Franks, J., et al., 2023. Emergence of a new genotype of clade 2.3.4.4b H5N1 highly pathogenic avian influenza A viruses in Bangladesh. *Emerg. Microbes Infect.* 2252510.
+
+Bhardwaj, S., Choudhary, M.L., Jadhav, S., Vipat, V., Ghuge, R., Salvi, S., et al., 2022. A retrospective analysis of respiratory virus transmission before and during the COVID-19 pandemic in Pune, the western region of India. *Front. Public Health* 10, 936634.
+
+Burrough, E.R., Magstadt, D.R., Petersen, B., Timmermans, S.J., Gauger, P.C., Zhang, J., et al., 2024. Highly pathogenic avian influenza A(H5N1) clade 2.3.4.4b virus infection in domestic dairy cattle and cats, United States, 2024. *Emerg. Infect. Dis.* 30(7), 1335–1343.
+
+Chowdhury, S., Hossain, M.E., Ghosh, P.K., Ghosh, S., Hossain, M.B., Beard, C., et al., 2019. The pattern of highly pathogenic avian influenza H5N1 outbreaks in South Asia. *Trop. Med. Infect. Dis.* 4(4).
+
+CMS, FAO, 2023. Scientific task force on avian influenza and wild birds statement - July 2023 [Internet]. Available at: www.dereliev-photography.com.
+
+Coombe, M., Iwasawa, S., Byers, K.A., Prystajecky, N., Hsiao, W., Patrick, D.M., et al., 2020. A systematic review and narrative synthesis of the use of environmental samples for the surveillance of avian influenza viruses in wild waterbirds. *J. Wildl. Dis.* 57(1), 1–18. https://doi.org/10.7589/JWD-D-20-00082.
+
+DAHD. Department of Animal Husbandry & Dairying, 2021. Revised action plan 2021 for avian influenza [Internet]. Available at: https://dahd.nic.in/circulars/revised-action-plan-2021-avian-influenza. (Accessed 17 February 2023).
+
+FAO, 2023. FAO global AIV with zoonotic potential situation update - FAO emergency prevention system for animal health (EMPRES-AH) [Internet]. Available at: https://data.apps.fao.org/empres-i/?lang=en&share=f-d3964f1e-6d8e-45a7-825d-ead8d4a86b5e. (Accessed 28 November 2023).
+
+Hall, J.S., Dusek, R.J., Spackman, E., 2015. Rapidly expanding range of highly pathogenic avian influenza viruses. *Emerg. Infect. Dis.* 21(7), 1251–1252.
+
+Horm, S.V., Deboosere, N., Gutiérrez, R.A., Vialette, M., Buchy, P., 2011. Direct detection of highly pathogenic avian influenza A/H5N1 virus from mud specimens. *J. Virol. Methods* 176(1–2), 69–73.
+
+Horm, S.V., Gutiérrez, R.A., Sorn, S., Buchy, P., 2012. Environment: a potential source of animal and human infection with influenza A (H5N1) virus. *Influenza Other Respir. Viruses* 6(6), 442–448.
+
+Kaverin, N.V., Rudneva, I.A., Govorkova, E.A., Timofeeva, T.A., Shilov, A.A., Kochergin-Nikitsky, K.S., et al., 2007. Epitope mapping of the hemagglutinin molecule of a highly pathogenic H5N1 influenza virus by using monoclonal antibodies. *J. Virol.* 81(23), 12911–12917.
+
+Lewis, N.S., Banyard, A.C., Whittard, E., Karibayev, T., Al Kafagi, T., Chvala, I., et al., 2021. Emergence and spread of novel H5N8, H5N5 and H5N1 clade 2.3.4.4 highly pathogenic avian influenza in 2020. *Emerg. Microbes Infect.* 10, 148–151.
+
+Mishra, A.C., Cherian, S.S., Chakrabarti, A.K., Pawar, S.D., Jadhav, S.M., Pal, B., et al., 2009. A unique influenza A (H5N1) virus causing a focal poultry outbreak in 2007 in Manipur, India. *Virol. J.* 6, 26.
+
+Morse, J., Coyle, J., Mikesell, L., Stoddard, B., Eckel, S., Weinberg, M., et al., 2024. Influenza A(H5N1) virus infection in two dairy farm workers in Michigan. *N. Engl. J. Med.* 391, 963–964.
+
+Nagarajan, S., Kumar, M., Murugkar, H.V., Tripathi, S., Shukla, S., Agarwal, S., et al., 2017. Novel reassortant highly pathogenic avian influenza (H5N8) virus in zoos, India. *Emerg. Infect. Dis.* 23(4), 717–719.  
+
+Abolnik, C., 2024. Spillover of an endemic avian influenza H6N2 chicken lineage to ostriches and reassortment with clade 2.3.4.4b H5N1 high pathogenicity viruses in chickens. *Vet. Res. Commun.* 48(2), 1233–1237.
+
+Antigua, K.J.C., Baek, Y.H., Choi, W.-S., Jeong, J.H., Kim, E.-H., Oh, S., et al., 2022. Multiple HA substitutions in highly pathogenic avian influenza H5Nx viruses contributed to the change in the NA subtype preference. *Virulence* 13(1), 990–1004.
+
+Barman, S., Turner, J.C.M., Kamrul Hasan, M., Akhtar, S., Jeevan, T., Franks, J., et al., 2023. Emergence of a new genotype of clade 2.3.4.4b H5N1 highly pathogenic avian influenza A viruses in Bangladesh. *Emerg. Microbes Infect.* 2252510.
+
+Bhardwaj, S., Choudhary, M.L., Jadhav, S., Vipat, V., Ghuge, R., Salvi, S., et al., 2022. A retrospective analysis of respiratory virus transmission before and during the COVID-19 pandemic in Pune, the western region of India. *Front. Public Health* 10, 936634.
+
+Burrough, E.R., Magstadt, D.R., Petersen, B., Timmermans, S.J., Gauger, P.C., Zhang, J., et al., 2024. Highly pathogenic avian influenza A(H5N1) clade 2.3.4.4b virus infection in domestic dairy cattle and cats, United States, 2024. *Emerg. Infect. Dis.* 30(7), 1335–1343.
+
+Chowdhury, S., Hossain, M.E., Ghosh, P.K., Ghosh, S., Hossain, M.B., Beard, C., et al., 2019. The pattern of highly pathogenic avian influenza H5N1 outbreaks in South Asia. *Trop. Med. Infect. Dis.* 4(4).
+
+CMS, FAO, 2023. Scientific task force on avian influenza and wild birds statement - July 2023 [Internet]. Available at: www.dereliev-photography.com.
+
+Coombe, M., Iwasawa, S., Byers, K.A., Prystajecky, N., Hsiao, W., Patrick, D.M., et al., 2020. A systematic review and narrative synthesis of the use of environmental samples for the surveillance of avian influenza viruses in wild waterbirds. *J. Wildl. Dis.* 57(1), 1–18. https://doi.org/10.7589/JWD-D-20-00082.
+
+DAHD. Department of Animal Husbandry & Dairying, 2021. Revised action plan 2021 for avian influenza [Internet]. Available at: https://dahd.nic.in/circulars/revised-action-plan-2021-avian-influenza. (Accessed 17 February 2023).
+
+FAO, 2023. FAO global AIV with zoonotic potential situation update - FAO emergency prevention system for animal health (EMPRES-AH) [Internet]. Available at: https://data.apps.fao.org/empres-i/?lang=en&share=f-d3964f1e-6d8e-45a7-825d-ead8d4a86b5e. (Accessed 28 November 2023).
+
+Hall, J.S., Dusek, R.J., Spackman, E., 2015. Rapidly expanding range of highly pathogenic avian influenza viruses. *Emerg. Infect. Dis.* 21(7), 1251–1252.
+
+Horm, S.V., Deboosere, N., Gutiérrez, R.A., Vialette, M., Buchy, P., 2011. Direct detection of highly pathogenic avian influenza A/H5N1 virus from mud specimens. *J. Virol. Methods* 176(1–2), 69–73.
+
+Horm, S.V., Gutiérrez, R.A., Sorn, S., Buchy, P., 2012. Environment: a potential source of animal and human infection with influenza A (H5N1) virus. *Influenza Other Respir. Viruses* 6(6), 442–448.
+
+Kaverin, N.V., Rudneva, I.A., Govorkova, E.A., Timofeeva, T.A., Shilov, A.A., Kochergin-Nikitsky, K.S., et al., 2007. Epitope mapping of the hemagglutinin molecule of a highly pathogenic H5N1 influenza virus by using monoclonal antibodies. *J. Virol.* 81(23), 12911–12917.
+
+Lewis, N.S., Banyard, A.C., Whittard, E., Karibayev, T., Al Kafagi, T., Chvala, I., et al., 2021. Emergence and spread of novel H5N8, H5N5 and H5N1 clade 2.3.4.4 highly pathogenic avian influenza in 2020. *Emerg. Microbes Infect.* 10, 148–151.
+
+Mishra, A.C., Cherian, S.S., Chakrabarti, A.K., Pawar, S.D., Jadhav, S.M., Pal, B., et al., 2009. A unique influenza A (H5N1) virus causing a focal poultry outbreak in 2007 in Manipur, India. *Virol. J.* 6, 26.
+
+Morse, J., Coyle, J., Mikesell, L., Stoddard, B., Eckel, S., Weinberg, M., et al., 2024. Influenza A(H5N1) virus infection in two dairy farm workers in Michigan. *N. Engl. J. Med.* 391, 963–964.
+
+Nagarajan, S., Kumar, M., Murugkar, H.V., Tripathi, S., Shukla, S., Agarwal, S., et al., 2017. Novel reassortant highly pathogenic avian influenza (H5N8) virus in zoos, India. *Emerg. Infect. Dis.* 23(4), 717–719.
+
+Nazir, J., Haumacher, R., Ike, A.C., Marschang, R.E., 2011. Persistence of avian influenza viruses in lake sediment, duck feces, and duck meat. *Appl. Environ. Microbiol.* 77(14), 4981–4985.
+
+Nitanaware, H., 2024. Kerala bird flu: thousands of ducks to be culled in Alappuzha after reports of confirmed cases. *Down to Earth* [Internet]. Available at: https://www.downtoearth.org.in/wildlife-biodiversity/kerala-bird-flu-thousands-of-ducks-to-be-culled-in-alappuzha-after-reports-of-confirmed-cases-95655.
+
+Pawar, S.D., Parkhi, S.S., Koratkar, S.S., Mishra, A.C., 2012. Receptor specificity and erythrocyte binding preferences of avian influenza viruses isolated from India. *Virol. J.* 9(1), 1.
+
+Pawar, S., Keng, S., Tare, D., Thormothe, A., Sapkal, G., Anukumar, B., et al., 2019. A virus precipitation method for concentration & detection of avian influenza viruses from environmental water resources & its possible application in outbreak investigations. *Indian J. Med. Res.* 150(6).
+
+Pawar, S.D., Keng, S.S., Kode, S.S., Tare, D.S., Singh, D.K., Mullick, J., 2021. A novel reassortant avian influenza H4N6 virus isolated from an environmental sample during a surveillance in Maharashtra, India. *Indian J. Med. Res.* 154(6), 871–887.
+
+Pawar, S.D., Kode, S.S., Keng, S.S., Tare, D.S., Pande, S.A., 2023. Spatio-temporal distribution & seasonality of highly pathogenic avian influenza H5N1 & H5N8 outbreaks in India, 2006-2021. *Indian J. Med. Res.* 158, 1–6.
+
+Potdar, V., Hinge, D., Satav, A., Yadav, P.D., Chadha, M.S., State, M., 2019. Laboratory-confirmed avian influenza A(H9N2) virus infection, India, 2019. *Emerg. Infect. Dis.* 25(12), 2328–2330.
+
+Potdar, V., Brijwal, M., Lodha, R., Yadav, P., Jadhav, S., Choudhary, M.L., 2022. Identification of human case of avian influenza A (H5N1), 28(6).
+
+Ray, K., Potdar, V.A., Cherian, S.S., Pawar, S.D., Jadhav, S.M., Waregaonkar, S.R., et al., 2008. Characterization of the complete genome of influenza A (H5N1) virus isolated during the 2006 outbreak in poultry in India. *Virus Genes* 36(2), 345–353.
+
+Reed, L., Muench, H., 1938. A simple method of estimating fifty per cent endpoints. *Am. J. Epidemiol.* 27(3), 493–497.
+
+Sagong, M., Lee, Y.-N., Song, S., Cha, R.M., Lee, E.-K., Kang, Y.-M., et al., 2022. Emergence of clade 2.3.4.4b novel reassortant H5N1 high pathogenicity avian influenza virus in South Korea during late 2021. *Transbound. Emerg. Dis.* 69(5), e3255–e3260.
+
+Shu, Y., McCauley, J., 2017. GISAID: global initiative on sharing all influenza data – from vision to reality. *Euro Surveill.* 22(13), pii=30494. https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2017.22.13.30494.
+
+Smith, G.J.D., Donis, R.O., WHO/OIE/FAO, 2015. Nomenclature updates resulting from the evolution of avian influenza A(H5) virus clades 2.1.3.2a, 2.2.1, and 2.3.4 during 2013–2014. *Influenza Other Respir. Viruses* 9(5), 271–276.
+
+Suttie, A., Mo, Y., Andrew, D., Philippe, R.G., Paul, D., Erik, F.H., 2019. Inventory of molecular markers affecting biological characteristics of avian influenza A viruses. *Virus Genes* 55(6), 739–768. https://doi.org/10.1007/s11262-019-01700-z.
+
+Tare, D.S., Keng, S.S., Walimbe, A.M., Pawar, S.D., 2024. Phylogeography and gene pool analysis of highly pathogenic avian influenza H5N1 viruses reported in India from 2006 to 2021. *Arch. Virol.* 169(5), 111.
+
+The Global Consortium for H5N8 and Related Influenza Viruses, 2016. Role for migratory wild birds in the global spread of avian influenza H5N8. *Science* 354(6309), 213–217.
+
+Turnbull, M.L., Wise, H.M., Nicol, M.Q., Smith, N., Dunfee, R.L., Beard, P.M., et al., 2016. Role of the B allele of influenza A virus segment 8 in setting mammalian host range and pathogenicity. *J. Virol.* 90(20), 9263–9284. https://doi.org/10.1128/JVI.01205-16.
+
+WHO, 2011. Manual for the laboratory diagnosis and virological surveillance of influenza, p. 153 [Internet]. https://www.who.int/influenza/gisrs_laboratory/manual_diagnosis_surveillance_influenza/en/. (Accessed 4 October 2020).
+
+WHO, 2024. Avian influenza A (H5N1) - Australia [Internet]. https://www.who.int/emergencies/disease-outbreak-news/item/2024-DON519.
+
+WHO. World Health Organization, 2006. Outbreak news. Avian influenza, India. *Wkly Epidemiol. Rep.* 81(8), 70.
+
+WOAH, 2024. World Organization for Animal Health, WAHIS. Animal disease events, avian influenza [Internet]. https://wahis.woah.org/#/event-management.
+
+Xie, R., Edwards, K.M., Wille, M., Wei, X., Wong, S.-S., Zanin, M., et al., 2023. The episodic resurgence of highly pathogenic avian influenza H5 virus. *Nature* 622(7984), 810–817.
+
+Xu, X., Subbarao, K., Cox, N.J., Guo, Y., 1999. Genetic characterization of the pathogenic influenza A/Goose/Guangdong/1/96 (H5N1) virus: similarity of its hemagglutinin gene to those of H5N1 viruses from the 1997 outbreaks in Hong Kong. *Virology* 261(1), 15–19.
+
+Yang, J., Zhang, C., Yuan, Y., Sun, J., Lu, L., Sun, H., et al., 2023. Novel avian influenza virus (H5N1) clade 2.3.4.4b reassortants in migratory birds, China. *Emerg. Infect. Dis.* 29(6), 1244–1249.
+
+Yi, L., Xiang, L., Xinru, L., Qiuzi, X., Zhenliang, Z., Siyuan, Q., et al., 2022. Highly pathogenic avian influenza A(H5Nx) virus of clade 2.3.4.4b emerging in Tibet, China, 2021. *Microbiol. Spectr.* 10(3), e0064322. https://doi.org/10.1128/spectrum.00643-22.
+
+Youk, S., Torchetti, M.K., Lantz, K., Lenoch, J.B., Killian, M.L., Leyson, C., et al., 2023. H5N1 highly pathogenic avian influenza clade 2.3.4.4b in wild and domestic birds: introductions into the United States and reassortments, December 2021–April 2022. *Virology* 587(August).
+
+Zhou, B., Deng, Y.-M., Barnes, J.R., Sessions, O.M., Chou, T.-W., Wilson, M., et al., 2017. Multiplex reverse transcription-PCR for simultaneous surveillance of influenza A and B viruses. *J. Clin. Microbiol.* 55(12), 3492–3501.
