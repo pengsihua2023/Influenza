@@ -40,5 +40,44 @@ A/pigeon-Hubei/RP25/2012/CHN
 A/Hong Kong/5923/2012/HKG
 A/chicken/Vietnam/NCVD-2693/2013/VNM
 ```
+图中的字符如下：
 
+```
+A/pigeon-Hubei/RP25/2012/CHN
+A/Hong Kong/5923/2012/HKG
+A/chicken/Vietnam/NCVD-2693/2013/VNM
+A/large billed crow/Hong Kong/885/2009/HKG
+A/Falcon/Dubai/AR3430-2293/2014/ARE
+A/duck/India/11CA02/2014/IND
+A/duck/India/03CA01/2015/IND
+A/duck/Shanghai/ZXC04/2017/CHN
+A/chicken/Wuxi/WX-33/2013/CHN
+A/chicken/Laos/M05/2014/LAO
+A/chicken/Yimmarbin/A295/2010/MMR
+A/Hubei/1/2010/CHN
+A/duck/Bangladesh/17-D-2338/2024/BGD
+A/Victoria/149/2024/AUS
+A/duck/Bangladesh/18-D-2049/2023/BGD
+A/India/SARI-4571/2021/IND
+A/duck/Bangladesh/27820/2015/BGD
+A/duck/Bangladesh/34751/2018/BGD
+A/chicken/Bangladesh/23414/2014/BGD
+A/duck/Bangladesh/24958/2015/BGD
+A/chicken/India/07CA02/2013/IND
+A/chicken/India/12CA01/2013/IND
+A/duck/Nepal/5_TZ_oo/2011/NPL
+A/wild bird/Bhutan/357/2012/BTN
+A/chicken/Nepal/PT-1/2012/NPL
+A/duck/Bangladesh/18949/2013/BGD
+A/crow/India/03CA06/2012/IND
+A/northern pintail/India/03OR320/2013/IND
+A/chicken/India/01CA09/2012/IND
+A/chicken/Bangladesh/531/2007/BGD
+A/chicken/Joypurhat/2/2007/BDG
+A/chicken/West Bengal/80995/2008/IND
+A/chicken/Jessore/2/2008/BGD
+A/chicken/India/WB-NIV2664/2008/IND
+```
+
+这些字符看起来是禽流感病毒株的标识，包含了物种（如鸡、鸭、野鸟等）、地点（如印度、孟加拉国、香港等）、年份以及可能的病毒亚型。
 
