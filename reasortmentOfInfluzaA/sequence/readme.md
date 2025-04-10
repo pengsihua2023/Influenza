@@ -78,6 +78,32 @@ A/chicken/West Bengal/80995/2008/IND
 A/chicken/Jessore/2/2008/BGD
 A/chicken/India/WB-NIV2664/2008/IND
 ```
+图中的字符如下：
+
+```
+A/chicken/India/100071/2008/IND
+A/chicken/India/WB-NIV529/2008/IND
+A/duck/Nepal/PTS60/2010/NPL
+A/chicken/Sikkim/151466/2009/IND
+A/chicken/Assam/142007/2008/IND
+A/duck/India/TR-NIV4396/2008/IND
+A/Bangladesh/207095/2008/BGD
+A/chicken/West Bengal/155505/2009/IND
+A/chicken/Bogra/3/2010/BGD
+A/chicken/India/NIV33487/2006/IND
+A/chicken/Navapur/7972/2006/IND
+A/cygnus cygnus/Iran/754/2006/IRN
+A/chicken/Lahore/NARC-3320/2006/PAK
+A/common goldeneye/Mongolia/12/2006/MNG
+A/bar-headed goose/Mongolia/1/2005/MNG
+A/chicken/Manipur/NIV9743/2007/IND
+A/Hong Kong/378.1/2001/HKG
+A/goose/Hong Kong/1032.6/2000/HKG
+A/Hong Kong/483/1997/HKG
+A/Duck/Hong Kong/p46/1997/HKG
+A/goose/Guangdong/1/1996/CHN
+```
+
 
 
 
