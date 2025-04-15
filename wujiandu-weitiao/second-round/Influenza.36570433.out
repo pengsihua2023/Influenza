@@ -1,0 +1,128 @@
+Checking allocated GPUs:
+Tue Apr 15 18:10:32 2025       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 565.57.01              Driver Version: 565.57.01      CUDA Version: 12.7     |
+|-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA A100-SXM4-80GB          On  |   00000000:01:00.0 Off |                    0 |
+| N/A   28C    P0             61W /  500W |       1MiB /  81920MiB |      0%      Default |
+|                                         |                        |             Disabled |
++-----------------------------------------+------------------------+----------------------+
+                                                                                         
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI        PID   Type   Process name                              GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+Activating Conda environment...
+[2025-04-15 18:10:34,725] [INFO] [real_accelerator.py:222:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+Warning: The cache directory for DeepSpeed Triton autotune, /home/sp96859/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+[2025-04-15 18:10:37,956] [WARNING] [runner.py:215:fetch_hostfile] Unable to find hostfile, will proceed with training with local resources only.
+Detected VISIBLE_DEVICES=0 but ignoring it because one or several of --include/--exclude/--num_gpus/--num_nodes cl args were used. If you want to use CUDA_VISIBLE_DEVICES don't pass any of these arguments to deepspeed.
+[2025-04-15 18:10:37,956] [INFO] [runner.py:607:main] cmd = /home/sp96859/.conda/envs/ESM2/bin/python -u -m deepspeed.launcher.launch --world_info=eyJsb2NhbGhvc3QiOiBbMF19 --master_addr=127.0.0.1 --master_port=29500 --enable_each_rank_log=None Influenza-old-code-modifyed.py
+[2025-04-15 18:10:39,092] [INFO] [real_accelerator.py:222:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+Warning: The cache directory for DeepSpeed Triton autotune, /home/sp96859/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+[2025-04-15 18:10:41,567] [INFO] [launch.py:146:main] WORLD INFO DICT: {'localhost': [0]}
+[2025-04-15 18:10:41,567] [INFO] [launch.py:152:main] nnodes=1, num_local_procs=1, node_rank=0
+[2025-04-15 18:10:41,567] [INFO] [launch.py:163:main] global_rank_mapping=defaultdict(<class 'list'>, {'localhost': [0]})
+[2025-04-15 18:10:41,567] [INFO] [launch.py:164:main] dist_world_size=1
+[2025-04-15 18:10:41,567] [INFO] [launch.py:168:main] Setting CUDA_VISIBLE_DEVICES=0
+[2025-04-15 18:10:41,568] [INFO] [launch.py:256:main] process 620365 spawned with command: ['/home/sp96859/.conda/envs/ESM2/bin/python', '-u', 'Influenza-old-code-modifyed.py', '--local_rank=0']
+Log directory is set at ./logs-650M-Influenza-A
+[2025-04-15 18:11:32,505] [INFO] [real_accelerator.py:222:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+Warning: The cache directory for DeepSpeed Triton autotune, /home/sp96859/.triton/autotune, appears to be on an NFS system. While this is generally acceptable, if you experience slowdowns or hanging when DeepSpeed exits, it is recommended to set the TRITON_CACHE_DIR environment variable to a non-NFS path.
+[2025-04-15 18:11:33,258] [INFO] [comm.py:658:init_distributed] cdb=None
+[2025-04-15 18:11:33,258] [INFO] [comm.py:689:init_distributed] Initializing TorchBackend in DeepSpeed with backend nccl
+ninja: no work to do.
+Time to load fused_adam op: 0.3217003345489502 seconds
+[2025-04-15 18:11:35,285] [WARNING] [lr_schedules.py:683:get_lr] Attempting to get learning rate from scheduler before it has started
+{'loss': 1.7354, 'grad_norm': 0.39172595739364624, 'learning_rate': 3.6888629226955084e-06, 'epoch': 0.1}
+{'loss': 1.8275, 'grad_norm': 0.7840487360954285, 'learning_rate': 4.254706770678877e-06, 'epoch': 0.2}
+{'loss': 1.7661, 'grad_norm': 0.7396538257598877, 'learning_rate': 4.583630533316995e-06, 'epoch': 0.3}
+{'loss': 1.7216, 'grad_norm': 0.7619569897651672, 'learning_rate': 4.816435654892157e-06, 'epoch': 0.4}
+{'loss': 1.6971, 'grad_norm': 0.6865074634552002, 'learning_rate': 4.996775322486903e-06, 'epoch': 0.5}
+{'loss': 1.7081, 'grad_norm': 0.6737946271896362, 'learning_rate': 5e-06, 'epoch': 0.6}
+{'loss': 1.7339, 'grad_norm': 0.4302917718887329, 'learning_rate': 5e-06, 'epoch': 0.7}
+{'loss': 1.7398, 'grad_norm': 0.7355009913444519, 'learning_rate': 5e-06, 'epoch': 0.8}
+{'loss': 1.6133, 'grad_norm': 1.100624442100525, 'learning_rate': 5e-06, 'epoch': 0.9}
+{'loss': 1.6505, 'grad_norm': 1.3897820711135864, 'learning_rate': 5e-06, 'epoch': 1.0}
+{'train_loss': 1.6316173076629639, 'train_perplexity': 5.112135932891737, 'train_runtime': 156.9336, 'train_samples_per_second': 50.977, 'train_steps_per_second': 6.372, 'epoch': 1.0}
+{'eval_loss': 1.6117305755615234, 'eval_perplexity': 5.011476466445859, 'eval_runtime': 39.2345, 'eval_samples_per_second': 50.976, 'eval_steps_per_second': 6.372, 'epoch': 1.0}
+
+==================================================
+Epoch 1 Training Metrics:
+Training Loss: 1.6316
+Training Perplexity: 5.1121
+
+Evaluation Metrics:
+Evaluation Loss: 1.6117
+Evaluation Perplexity: 5.0115
+==================================================
+
+{'loss': 1.6845, 'grad_norm': 1.1685717105865479, 'learning_rate': 5e-06, 'epoch': 1.1}
+{'loss': 1.638, 'grad_norm': 1.3941397666931152, 'learning_rate': 5e-06, 'epoch': 1.2}
+{'loss': 1.5926, 'grad_norm': 1.170921802520752, 'learning_rate': 5e-06, 'epoch': 1.3}
+{'loss': 1.6252, 'grad_norm': 1.034674882888794, 'learning_rate': 5e-06, 'epoch': 1.4}
+{'loss': 1.5846, 'grad_norm': 1.2672474384307861, 'learning_rate': 5e-06, 'epoch': 1.5}
+{'loss': 1.5284, 'grad_norm': 1.5748904943466187, 'learning_rate': 5e-06, 'epoch': 1.6}
+{'loss': 1.5116, 'grad_norm': 1.7257709503173828, 'learning_rate': 5e-06, 'epoch': 1.7}
+{'loss': 1.4766, 'grad_norm': 1.4924067258834839, 'learning_rate': 5e-06, 'epoch': 1.8}
+{'loss': 1.4876, 'grad_norm': 2.0338358879089355, 'learning_rate': 5e-06, 'epoch': 1.9}
+{'loss': 1.4748, 'grad_norm': 1.3802087306976318, 'learning_rate': 5e-06, 'epoch': 2.0}
+{'train_loss': 1.4712742567062378, 'train_perplexity': 4.354780715600641, 'train_runtime': 156.9186, 'train_samples_per_second': 50.982, 'train_steps_per_second': 6.373, 'epoch': 2.0}
+{'eval_loss': 1.4555996656417847, 'eval_perplexity': 4.287053493630971, 'eval_runtime': 39.2322, 'eval_samples_per_second': 50.979, 'eval_steps_per_second': 6.372, 'epoch': 2.0}
+
+==================================================
+Epoch 2 Training Metrics:
+Training Loss: 1.4713
+Training Perplexity: 4.3548
+
+Evaluation Metrics:
+Evaluation Loss: 1.4556
+Evaluation Perplexity: 4.2871
+==================================================
+
+{'train_runtime': 1220.1577, 'train_samples_per_second': 13.113, 'train_steps_per_second': 1.639, 'train_loss': 1.6398658447265626, 'epoch': 2.0}
+
+Starting to save model to esm2_t33_650M_UR50D-Influenza-A...
+Saving model...
+Merging LoRA weights...
+Model saved successfully
+Saving tokenizer...
+Tokenizer saved successfully
+Saving training state...
+Training state saved successfully
+Saving model configuration...
+Model configuration saved successfully
+Saving training arguments...
+Training arguments saved successfully
+
+Saved files in esm2_t33_650M_UR50D-Influenza-A:
+- model.safetensors
+- checkpoint-2000
+- config.json
+- checkpoint-1000
+- vocab.txt
+- special_tokens_map.json
+- training_args.json
+- tokenizer_config.json
+- trainer_state.json
+
+Model and tokenizer saved successfully to esm2_t33_650M_UR50D-Influenza-A
+
+Model information:
+Model type: EsmForMaskedLM
+Model parameters: 652356534
+Trainable parameters: 0
+
+Waiting for all processes to complete saving...
+All processes completed saving
+
+Training and saving completed successfully!
+Process group destroyed
+[2025-04-15 18:31:59,853] [INFO] [launch.py:351:main] Process 620365 exits successfully.
